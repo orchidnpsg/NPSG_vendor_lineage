@@ -3,7 +3,7 @@
 - Repo type **vendor_lineage**
 
 - This is Rom is Based on **Lineage Os Roms Android 10**
-- Based on [android_vendor_lineage](https://github.com/LineageOS/android_vendor_lineage)
+- Based on [lineage android vendor lineage](https://github.com/LineageOS/android_vendor_lineage)
 
 - Developed by **teamorchidos for Orchidos**
 
@@ -11,7 +11,7 @@
 
 - How to reach me **aosporchid@gmail.com**
 
-- Tag line : **"its that simple"**
+-  **"its that simple"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
