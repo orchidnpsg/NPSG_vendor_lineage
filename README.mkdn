@@ -1,8 +1,8 @@
 <h1 align="center">The Orchid Project NPSG VENDOR</h1>
+
 - Repo type **vendor_lineage**
 
 - This is Rom is Based on **Lineage Os Roms**
-
 - Based on [Lineage Os Roms](https://github.com/LineageOS/android_vendor_lineage)
 
 - Developed by **teamorchidos for Orchidos**
