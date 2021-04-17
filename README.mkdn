@@ -7,9 +7,9 @@
 
 - Developed by **teamorchidos for Orchidos**
 
-- Usage **git clone https://github.com/orchidnpsg/NPSG_vendor_lineage**
+- Usage git clone https://github.com/orchidnpsg/NPSG_vendor_lineage
 
-- 📫 How to reach me **aosporchid@gmail.com**
+- How to reach me **aosporchid@gmail.com**
 
 - Tag line : **"its that simple"**
 
