@@ -2,8 +2,8 @@
 
 - Repo type **vendor_lineage**
 
-- This is Rom is Based on **Lineage Os Roms**
-- Based on [Lineage Os Roms](https://github.com/LineageOS/android_vendor_lineage)
+- This is Rom is Based on **Lineage Os Roms Android 10**
+- Based on [android_vendor_lineage](https://github.com/LineageOS/android_vendor_lineage)
 
 - Developed by **teamorchidos for Orchidos**
 
