@@ -1,7 +1,7 @@
 # Allow vendor/extra to override any property by setting it first
 $(call inherit-product-if-exists, vendor/extra/product.mk)
 $(call inherit-product-if-exists, vendor/pixelgapps/pixel-gapps.mk)
-$(call inherit-product-if-exists, vendor/oplauncher/OPLauncher2.mk)
+$(call inherit-product-if-exists, vendor/oplauncher/OPLauncher.mk)
 $(call inherit-product-if-exists, vendor/prebuilts/prebuilts.mk)
 
 PRODUCT_BRAND ?= NPSG OS
@@ -388,5 +388,5 @@ endif
 
 -include $(WORKSPACE)/build_env/image-auto-bits.mk
 -include vendor/lineage/config/partner_gms.mk
--include vendor/aeonax/anxcamera/anx-vendor.mk
+-include vendor/aeonax/ANXCamera/anx-vendor.mk
 
