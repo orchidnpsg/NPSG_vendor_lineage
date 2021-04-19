@@ -275,8 +275,6 @@ endif
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.face.moto_unlock_service=$(TARGET_FACE_UNLOCK_SUPPORTED)
 
-# Branding
-include vendor/aosp/config/branding.mk
 
 # Set LINEAGE_BUILDTYPE from the env RELEASE_TYPE, for jenkins compat
 
