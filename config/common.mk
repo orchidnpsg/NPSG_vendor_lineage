@@ -106,7 +106,8 @@ PRODUCT_RESTRICT_VENDOR_FILES := false
 
 # The Orchid Project packages
 PRODUCT_PACKAGES += \
-    Extra
+    Extra \
+    LiquidLounge
     
 # Bootanimation
 PRODUCT_PACKAGES += \
